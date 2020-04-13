@@ -24,9 +24,11 @@ linkedin_username: jinopl
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am experienced in Linux administartion and Aspiring DevOps Engineer , Love to automate things and make my life easy and exciting.
+  Hi there,  am Jino, I'm a Linux system engineer with over 2 years experience. I am currently working in riosis private limited as a system engineer.
+  I love to automate things to make a more efficient workflow in my company. I have worked a lot of technology to achieve efficient workflows and I am always looking for opportunities to work with something new. 
+  
+  I am most skilled in: <mark>Linux</mark>, <mark>Git</mark>, <mark>Jenkins</mark>, <mark>Ansible</mark>, <mark>Docker</mark> and <mark>AWS</mark> services.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza hihihello</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -40,11 +42,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in Cloud technology some of my other interests and hobbies are:
+   - Bike Riding
+   - Movies
+   - Study new tech stacks
+   
 
 # Footer
 footer_show_references: true

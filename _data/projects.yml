@@ -10,4 +10,4 @@
   link: https://github.com/jinopl
   github: jinopl/jinopl.webserver
   description: | # this will include new lines to allow paragraphs
-    An Ansible project for my daily webserver provisioning,Ansible role that takes care of webserver.
+    An <mark>Ansible</mark> project for my daily webserver provisioning,Ansible role that takes care of webserver.

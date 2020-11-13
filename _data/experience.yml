@@ -1,16 +1,19 @@
 - layout: left
+  company: Mitsogo Inc
+  job_title: Devops Engineer
+  dates: August 2020 - Present
+  description: | # this will include new lines to allow paragraphs
+    Managing cloud infrastructure using automation.
+
+
+- layout: left
   company: Riosis private limited 
   link: riosis.com
   job_title: System engineer
-  dates: February 2018 - Present
+  dates: February 2018 - August 2020
   quote: >
    Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
     Being a system Engineer, understanding problems and automating things to make an efficient future, I found out new ways of doing things in the modern world of the tech industry.
 
-- layout: left
-  company: Spectrum softtech Solutions 
-  job_title: Linux system administartion Trainee
-  dates: October 2018 - February 2018
-  description: | # this will include new lines to allow paragraphs
-    Expanding my idea about Linux, As a trainee experimented in several technologies and understanding core Linux concepts.
+
